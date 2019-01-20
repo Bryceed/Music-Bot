@@ -1,5 +1,8 @@
+
+
 # Music-Bot
-> Simple music bot with a full-blown queue system that is easy to understand
+> Simple music bot with a full-blown queue system that is easy to understand<br>
+
 
 ## Install
 
@@ -33,3 +36,6 @@ exports.GOOGLE_API_KEY = ''; // Your youtube/google API key here
 Authored and maintained by iCrawl.
 
 > GitHub [@iCrawl](https://github.com/iCrawl) · Twitter [@iCrawlToGo](https://twitter.com/iCrawlToGo)
+
+## Warning
+This repo is a fork from Dev-Yukine to understand how ffmpeg courses **on Linux hosting**.
